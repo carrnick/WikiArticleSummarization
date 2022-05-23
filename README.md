@@ -16,3 +16,12 @@ This class summarizes a Wikipedia page using [Hugging Face's DistilBart text sum
 ```
       w.summarize(url, max_splits=2)
 ```
+
+### Output:
+```
+w = WikiSummarizer()
+url = 'https://en.wikipedia.org/wiki/World_War_II'
+w.summarize(url)
+
+World War II or the Second World War, often abbreviated as WWII or WW2, was a global war that lasted from 1939 to 1945 . It involved the vast majority of the world's countries, including all of the great powers, forming two opposing military alliances: the Allies and the Axis powers . Aircraft played a major role in the conflict, enabling the strategic bombing of population centres and the only two uses of nuclear weapons in war . It resulted in 70 to 85 million fatalities, a majority being civilians .
+```
