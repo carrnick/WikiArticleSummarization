@@ -1,5 +1,7 @@
 # WikiArticleSummarization
-This class summarizes a Wikipedia page using [Hugging Face's DistilBart text summarization model](https://huggingface.co/sshleifer/distilbart-cnn-12-6) given a valid article.
+Wikipedia pages can be lengthy and take a long time to read through. This class summarizes a Wikipedia page using [Hugging Face's DistilBart text summarization model](https://huggingface.co/sshleifer/distilbart-cnn-12-6) given a valid article.
+
+Example article used: https://en.wikipedia.org/wiki/World_War_II
 
 ### How it works/How to use:
 1.   Instantiate WikiSummarizer
