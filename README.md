@@ -34,6 +34,7 @@ a majority being civilians .
 
 ```
 w.summarize(url, max_splits=3)
+
  World War II or the Second World War, often abbreviated as WWII or WW2, was a 
  global war that lasted from 1939 to 1945 . It involved the vast majority of the 
  world's countries, including all of the great powers, forming two opposing military 
