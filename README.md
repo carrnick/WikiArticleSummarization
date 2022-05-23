@@ -2,6 +2,8 @@
 Wikipedia pages can be lengthy and take a long time to read through. This class summarizes a Wikipedia page using [Hugging Face's DistilBart text summarization model](https://huggingface.co/sshleifer/distilbart-cnn-12-6) given a valid article.
 
 Example article used: https://en.wikipedia.org/wiki/World_War_II
+[Notebook](https://github.com/carrnick/WikiArticleSummarization/blob/main/Wikipedia_Article_Summarization.ipynb)
+[Python file](https://github.com/carrnick/WikiArticleSummarization/blob/main/wikipedia_article_summarization.py)
 
 ### How it works/How to use:
 1.   Instantiate WikiSummarizer
