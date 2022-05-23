@@ -31,3 +31,23 @@ in the conflict, enabling the strategic bombing of population centres and the on
 two uses of nuclear weapons in war . It resulted in 70 to 85 million fatalities, 
 a majority being civilians .
 ```
+
+```
+w.summarize(url, max_splits=3)
+ World War II or the Second World War, often abbreviated as WWII or WW2, was a 
+ global war that lasted from 1939 to 1945 . It involved the vast majority of the 
+ world's countries, including all of the great powers, forming two opposing military 
+ alliances: the Allies and the Axis powers . Aircraft played a major role in the 
+ conflict, enabling the strategic bombing of population centres and the only two 
+ uses of nuclear weapons in war . It resulted in 70 to 85 million fatalities, a 
+ majority being civilians .  World War II changed the political alignment and social 
+ structure of the globe . The United Nations was established to foster international 
+ co-operation and prevent future conflicts . The Soviet Union and the United States 
+ emerged as rival superpowers, setting the stage for the Cold War . The influence of 
+ its great powers waned, triggering the decolonisation of Africa and Asia .  The exact 
+ date of the war's end is also not universally agreed upon . It was generally accepted 
+ at the time that the war ended with the armistice of 14 August 1945 (V-J Day) rather 
+ than with the formal surrender of Japan on 2 September 1945 . A peace treaty between 
+ Japan and the Allies was signed in 1951 . A 1990 treaty regarding Germany's future 
+ allowed the reunification of East and West Germany to take place .
+```
